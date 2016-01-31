@@ -1,0 +1,2 @@
+defmodule MIDIMsg do
+end
